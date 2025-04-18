@@ -5,7 +5,8 @@
 This project analyzes a bank’s marketing campaign to identify key factors influencing customer subscription to term deposits. Using **Python, Pandas, Matplotlib, and Scikit-Learn**, we process the dataset, visualize trends, and implement a **Decision Tree Classifier** for prediction.
 
 ## **Dataset**
-- **Source:** [Kaggle - Bank Marketing Dataset](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset). 
+- **Source:** [Kaggle - Bank Marketing Dataset](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset).
+- This dataset was sourced from Kaggle at the time of use. To ensure consistency with the analysis in this project, please [download the dataset from this specific link](bank.csv) to match the version used.
 - The dataset contains **customer demographics, previous interactions, and campaign response data**.
 - Features include:
   - Age, Job, Marital Status, Education
@@ -22,7 +23,7 @@ This project analyzes a bank’s marketing campaign to identify key factors infl
 The project implements a **Decision Tree model** to predict whether a customer will subscribe to a term deposit. The model achieves an **accuracy of ~82%** after hyperparameter tuning.
 
 ### **Decision Tree Visualization**
-![Decision Tree](decision_tree_output.png)  
+![Decision Tree](decision_tree_top_levels.png)  
 _(Ensure you add `decision_tree_output.png` to your repository)_
 
 ## **Results & Insights**
