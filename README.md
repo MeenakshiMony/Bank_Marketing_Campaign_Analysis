@@ -24,7 +24,6 @@ The project implements a **Decision Tree model** to predict whether a customer w
 
 ### **Decision Tree Visualization**
 ![Decision Tree](decision_tree_top_levels.png)  
-_(Ensure you add `decision_tree_output.png` to your repository)_
 
 ## **Results & Insights**
 - **Feature Importance:** The most influential factors were **contact duration, number of campaigns, and previous marketing outcomes**.
